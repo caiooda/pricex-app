@@ -6,7 +6,7 @@ import { getAllStocks } from './stocks.mjs';
 
 // Your Account SID and Auth Token from twilio.com/console
 const accountSid = 'AC538439564bf03a7451be572040efed60';
-const authToken = '1603f4f5a5a59034debabf95b6755563';
+const authToken = 'cf85d7fb1656846a3390f32ccd7d91e7';
 
 // Initialize the Twilio client
 const connection = new twilio(accountSid, authToken);
